@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gina.
 - 👀 I’m interested in reading and writing.
-- 🌱 I’m currently learning CSS and advanced CSS. 
-- ⭐ Pronouns: Any pronouns are welcomed, including neopronouns. 
+- 🌱 I’m currently learning React JS, Python, and C++. 

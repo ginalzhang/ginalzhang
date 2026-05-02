@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Gina.
-- 👀 I’m interested in reading and writing.
-- 🌱 I’m currently learning React JS, Python, and C++. 
+in another life i am a bunny that just sniffs and stomps.
